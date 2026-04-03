@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_DR
+name: alice-dr
 description: ALICE DR
 type: application
 version: 0.1.0
